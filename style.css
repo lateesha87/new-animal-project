@@ -1,0 +1,40 @@
+body{
+	color: black;
+	font-font-family: arial;
+	width: 850px;
+	text:34;
+	background-size: cover;
+	background-color: green;
+}
+nav{
+	padding:16px;
+	text-align: left;
+
+} nav a{
+	width: 20px;
+	height: 20px;
+	margin: 0 8px;
+}
+
+h1{
+	text-align:center;
+	color:bule;
+	font-size: 43px;
+	font-font-family: arial;
+	
+}
+
+h2{
+	text-align:center;
+	color:red;
+	font-size: 43px;
+	font-font-family: arial;
+	
+}
+body{
+	font-size: 50xp
+	font-font-family: arial;
+	padding: 50px;
+}
+
+
